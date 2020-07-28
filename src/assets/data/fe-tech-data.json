@@ -1,0 +1,74 @@
+[
+    {
+        "courseType": [0],
+        "id": 0,
+        "title": "Soup",
+        "price" : 3
+    },
+    {
+        "courseType": [0],
+        "id": 1,
+        "title": "Pâté",
+        "price" : 5
+    },
+    {
+        "courseType": [0],
+        "id": 2,
+        "title": "Bruschetta",
+        "price" : 4.5
+    },
+    {
+        "courseType": [0],
+        "id": 3,
+        "title": "Prawn cocktail",
+        "price" : 6
+    },
+    {
+        "courseType": [0],
+        "id": 4,
+        "title": "Steak",
+        "price" : 18
+    },
+    {
+        "courseType": [0],
+        "id": 5,
+        "title": "Meatballs",
+        "price" : 11.50
+    },
+    {
+        "courseType": [1],
+        "id": 6,
+        "title": "Salmon fillet",
+        "price" : 14
+    },
+    {
+        "courseType": [1],
+        "id": 7,
+        "title": "Vegetarian lasagna",
+        "price" : 12
+    },
+    {
+        "courseType": [1],
+        "id": 8,
+        "title": "Sticky toffee",
+        "price" : 18
+    },
+    {
+        "courseType": [1],
+        "id": 9,
+        "title": "Cheesecake",
+        "price" : 4.5
+    },
+    {
+        "courseType": [1,2],
+        "id": 10,
+        "title": "Lobster Bisque",
+        "price" : 4
+    },
+    {
+        "courseType": [2],
+        "id": 11,
+        "title": "Ice cream",
+        "price" : 3.5
+    }
+]
